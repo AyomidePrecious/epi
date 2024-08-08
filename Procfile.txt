@@ -1,1 +1,1 @@
-web: streamlit run epilepsy_prediction_web_app.py
+web: streamlit run epilepsy prediction web app.py
